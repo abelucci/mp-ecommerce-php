@@ -35,7 +35,7 @@ $preference->payer = $payer;
 
 // back_urls
 $preference->back_urls = array(
-    "success" => "https://abellaime-mp-ecommerce-php.herokuapp.com/retorno.php?status=success",
+    "success" => "https://abellaime-mp-commerce-php.herokuapp.com/retorno.php?status=success",
     "failure" => "https://abellaime-mp-commerce-php.herokuapp.com//retorno.php?status=failure",
     "pending" => "https://abellaime-mp-commerce-php.herokuapp.com/retorno.php?status=pending"
 );
